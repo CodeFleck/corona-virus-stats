@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+View project here: [corona-virus-stats](https://sleepy-pare-7c62fa.netlify.app/).
 
 ## Available Scripts
 
